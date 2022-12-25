@@ -1,1 +1,1 @@
-Sistema de estacionamento: Adição de carros, remover carros e custos gasotos
+Sistema de estacionamento: Adição de carros, remover carros e custos gastos
